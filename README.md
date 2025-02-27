@@ -7,10 +7,10 @@ This project analyzes data from the **Data Professional Survey**, providing insi
 
 ## 📸 Dashboard Preview  
 ### 📷 Static Screenshot  
-![Power BI Dashboard](https://github.com/shrinemary/surveyPowerBI/blob/main/DataProfessionalSurveyPortfolio.pdf)  
+![Power BI Dashboard](https://github.com/shrinemary/surveyPowerBI/blob/main/DataProfessionalSurveyPortfolioSS.png)  
 
 ### 🎥 Animated GIF Preview  
-![Power BI Dashboard GIF](https://github.com/shrinemary/surveyPowerBI/blob/main/690029d3-26b0-4737-a9d8-c218f1d96161.gif)
+![Power BI Dashboard GIF](https://github.com/shrinemary/surveyPowerBI/blob/main/DataProfessionalSurveyShortVideo.gif)
 
 ## 👥 Let's Connect!  
 **Email:** [Email](mailto:maryshrine18@gmail.com)  
