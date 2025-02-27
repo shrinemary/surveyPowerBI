@@ -7,7 +7,7 @@ This project analyzes data from the **Data Professional Survey**, providing insi
 
 ## 📸 Dashboard Preview  
 ### 📷 Static Screenshot  
-![Power BI Dashboard](assets/powerbi_dashboard.png)  
+![Power BI Dashboard](https://github.com/shrinemary/surveyPowerBI/blob/main/DataProfessionalSurveyPortfolio.pdf)  
 
 ### 🎥 Animated GIF Preview  
 ![Power BI Dashboard GIF](assets/powerbi_dashboard.gif)  
